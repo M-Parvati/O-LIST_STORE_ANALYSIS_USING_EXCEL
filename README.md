@@ -1,16 +1,17 @@
-****O-list store analysis using excel.****
+**O-list store analysis using excel.**
 
-Overview
+**Overview**
 
 This project analyzes Olist e-commerce transaction and product-level data to understand customer behavior, product performance, and payment trends. 
 The goal is to present actionable insights for business optimization through an interactive Excel dashboard.
 
-Steps Included in the Project
-1. Data Collection
+
+**Steps Included in the Project-**
+**1.Data Collection**
 
 Raw e-commerce transactional data was sourced from Olist’s publicly available dataset, including orders, customers, products, and payment information.
 
-2. Data Cleaning
+**2. Data Cleaning**
 
 Removed duplicates and handled missing values.
 
@@ -18,7 +19,7 @@ Standardized product names, categories, and payment types.
 
 Formatted dates for consistent reporting and time-based analysis.
 
-3. Data Transformation
+**3. Data Transformation**
 
 Created pivot tables to summarize orders, revenue, and customer activity.
 
@@ -34,7 +35,7 @@ Average Review Score: 4.1
 
 Repeat Customer Rate: 3.4%
 
-4. Dashboard Design
+**4. Dashboard Design**
 
 Built an interactive, visually appealing Excel dashboard with slicers, dynamic charts, and KPI cards.
 
@@ -52,7 +53,7 @@ Charts: Used bar, line, and funnel charts to visualize trends and performance.
 
 Dashboard Sheet: Combined all KPIs and charts into a single view for business review.
 
-Key Insights
+**Key Insights:**
 
 Top Categories:
 
@@ -77,7 +78,7 @@ Generated $16.01M from 99K+ orders
 
 Average order value: $161
 
-Recommendations
+**Recommendations:**
 
 Focus promotions on high-performing categories like Health & Beauty and Watches & Gifts.
 
