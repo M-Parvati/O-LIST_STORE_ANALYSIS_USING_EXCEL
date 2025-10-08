@@ -44,7 +44,7 @@ Visualizations included: combo charts, funnel charts, and line charts for trend 
 
 Integrated slicers for filtering by Year,Month, and region.
 
-https://github.com/M-Parvati/O-LIST_STORE_ANALYSIS_USING_EXCEL/blob/1672fff6f6c3a2b6af1ea84b4b84624e1a675de1/Dashboard%20image.png
+![image alt](https://github.com/M-Parvati/O-LIST_STORE_ANALYSIS_USING_EXCEL/blob/1672fff6f6c3a2b6af1ea84b4b84624e1a675de1/Dashboard%20image.png)
 
 **Tools & Functionality (Microsoft Excel):**
 
