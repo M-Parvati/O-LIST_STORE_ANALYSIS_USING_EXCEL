@@ -1,5 +1,7 @@
 ****O-list store analysis using excel.****
+
 Overview
+
 This project analyzes Olist e-commerce transaction and product-level data to understand customer behavior, product performance, and payment trends. 
 The goal is to present actionable insights for business optimization through an interactive Excel dashboard.
 
