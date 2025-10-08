@@ -7,6 +7,7 @@ The goal is to present actionable insights for business optimization through an 
 
 
 **Steps Included in the Project-**
+
 **1.Data Collection**
 
 Raw e-commerce transactional data was sourced from Olist’s publicly available dataset, including orders, customers, products, and payment information.
@@ -43,7 +44,9 @@ Visualizations included: combo charts, funnel charts, and line charts for trend 
 
 Integrated slicers for filtering by Year,Month, and region.
 
-Tools & Functionality (Microsoft Excel)
+https://github.com/M-Parvati/O-LIST_STORE_ANALYSIS_USING_EXCEL/blob/1672fff6f6c3a2b6af1ea84b4b84624e1a675de1/Dashboard%20image.png
+
+**Tools & Functionality (Microsoft Excel):**
 
 Pivot Tables: Summarized revenue, orders, and categories.
 
@@ -88,7 +91,7 @@ Encourage digital payments or offer card-linked incentives to align with custome
 
 Monitor underperforming categories for inventory and marketing optimization.
 
-Conclusion
+**Conclusion:**
 
 The Excel dashboard provides a comprehensive and interactive view of Olist’s e-commerce performance. By transforming raw 
 transactional data into actionable insights, stakeholders can make informed decisions on marketing, product strategy, and 
